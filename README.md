@@ -1,2 +1,2 @@
-# Local Game Production
-Local Game Production Call for Papers website
+# Local Digital Game Production
+Local Digital Game Production Call for Papers website
