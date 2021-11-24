@@ -1,2 +1,2 @@
-# ludicpress.github.io
-Placeholder for redirecting to the About page.
+# Local Game Production
+Local Game Production Call for Papers website
